@@ -1,4 +1,6 @@
 ![Build Status](https://github.com/Daniel815266/enterprise-core-api/actions/workflows/main.yml/badge.svg)
+
+![Build Status](https://github.com/Daniel815266/enterprise-core-api/actions/workflows/main.yml/badge.svg)
 # 🚀 Enterprise Core API & Infrastructure
 
 This repository demonstrates a production-grade backend architecture coupled with automated cloud infrastructure. It is designed for scalability, security, and developer productivity.
