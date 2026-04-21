@@ -1,8 +1,25 @@
+<<<<<<< HEAD
+# Enterprise Core API
+![CI/CD](https://github.com/Daniel815266/enterprise-core-api/actions/workflows/main.yml/badge.svg)
+
+Production-grade FastAPI backend architecture.
+=======
 ![Build Status](https://github.com/Daniel815266/enterprise-core-api/actions/workflows/main.yml/badge.svg)
 #  Enterprise Core API & Infrastructure
+>>>>>>> main
 
-This repository demonstrates a production-grade backend architecture coupled with automated cloud infrastructure. It is designed for scalability, security, and developer productivity.
+## 🛠 Tech Stack
+- **Framework:** FastAPI (Python 3.11+)
+- **ORM:** SQLAlchemy + Alembic
+- **Infra:** Terraform + Docker
+- **Security:** JWT + OAuth2 + Bandit Scanning
 
+<<<<<<< HEAD
+## 🚀 Setup
+```bash
+docker-compose up --build
+```
+=======
 ##  System Architecture
 * **Backend:** FastAPI (Async Python 3.11+)
 * **Database:** PostgreSQL with SQLAlchemy ORM
@@ -21,3 +38,4 @@ This repository demonstrates a production-grade backend architecture coupled wit
 
 ---
 *Professional-grade engineering for long-term scalability.*
+>>>>>>> main
